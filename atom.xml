@@ -65,6 +65,56 @@
   </entry>
   
   <entry>
+    <title>毕业研究生</title>
+    <link href="http://hexo-demo.test.cn/2023/03/02/%E6%AF%95%E4%B8%9A%E7%A0%94%E7%A9%B6%E7%94%9F/"/>
+    <id>http://hexo-demo.test.cn/2023/03/02/%E6%AF%95%E4%B8%9A%E7%A0%94%E7%A9%B6%E7%94%9F/</id>
+    <published>2023-03-02T02:14:23.000Z</published>
+    <updated>2023-03-03T07:36:57.353Z</updated>
+    
+    <content type="html"><![CDATA[<p>毕业研究生 博士a，硕士a</p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;毕业研究生 博士a，硕士a&lt;/p&gt;
+</summary>
+      
+    
+    
+    
+    <category term="研究生" scheme="http://hexo-demo.test.cn/categories/%E7%A0%94%E7%A9%B6%E7%94%9F/"/>
+    
+    
+    <category term="毕业研究生" scheme="http://hexo-demo.test.cn/tags/%E6%AF%95%E4%B8%9A%E7%A0%94%E7%A9%B6%E7%94%9F/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>在读研究生</title>
+    <link href="http://hexo-demo.test.cn/2023/03/02/%E5%9C%A8%E8%AF%BB%E7%A0%94%E7%A9%B6%E7%94%9F/"/>
+    <id>http://hexo-demo.test.cn/2023/03/02/%E5%9C%A8%E8%AF%BB%E7%A0%94%E7%A9%B6%E7%94%9F/</id>
+    <published>2023-03-02T02:14:23.000Z</published>
+    <updated>2023-03-03T07:36:25.575Z</updated>
+    
+    <content type="html"><![CDATA[<p>在读研究生 博士a，硕士a</p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;在读研究生 博士a，硕士a&lt;/p&gt;
+</summary>
+      
+    
+    
+    
+    <category term="研究生" scheme="http://hexo-demo.test.cn/categories/%E7%A0%94%E7%A9%B6%E7%94%9F/"/>
+    
+    
+    <category term="在读研究生" scheme="http://hexo-demo.test.cn/tags/%E5%9C%A8%E8%AF%BB%E7%A0%94%E7%A9%B6%E7%94%9F/"/>
+    
+  </entry>
+  
+  <entry>
     <title>导师</title>
     <link href="http://hexo-demo.test.cn/2023/03/02/%E5%AF%BC%E5%B8%88/"/>
     <id>http://hexo-demo.test.cn/2023/03/02/%E5%AF%BC%E5%B8%88/</id>
@@ -115,31 +165,6 @@
   </entry>
   
   <entry>
-    <title>在读研究生</title>
-    <link href="http://hexo-demo.test.cn/2023/03/02/%E5%9C%A8%E8%AF%BB%E7%A0%94%E7%A9%B6%E7%94%9F/"/>
-    <id>http://hexo-demo.test.cn/2023/03/02/%E5%9C%A8%E8%AF%BB%E7%A0%94%E7%A9%B6%E7%94%9F/</id>
-    <published>2023-03-02T02:14:23.000Z</published>
-    <updated>2023-03-03T07:36:25.575Z</updated>
-    
-    <content type="html"><![CDATA[<p>在读研究生 博士a，硕士a</p>]]></content>
-    
-    
-      
-      
-    <summary type="html">&lt;p&gt;在读研究生 博士a，硕士a&lt;/p&gt;
-</summary>
-      
-    
-    
-    
-    <category term="研究生" scheme="http://hexo-demo.test.cn/categories/%E7%A0%94%E7%A9%B6%E7%94%9F/"/>
-    
-    
-    <category term="在读研究生" scheme="http://hexo-demo.test.cn/tags/%E5%9C%A8%E8%AF%BB%E7%A0%94%E7%A9%B6%E7%94%9F/"/>
-    
-  </entry>
-  
-  <entry>
     <title>论文</title>
     <link href="http://hexo-demo.test.cn/2023/03/02/%E8%AE%BA%E6%96%87/"/>
     <id>http://hexo-demo.test.cn/2023/03/02/%E8%AE%BA%E6%96%87/</id>
@@ -161,31 +186,6 @@
     
     
     <category term="发表论文" scheme="http://hexo-demo.test.cn/tags/%E5%8F%91%E8%A1%A8%E8%AE%BA%E6%96%87/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>毕业研究生</title>
-    <link href="http://hexo-demo.test.cn/2023/03/02/%E6%AF%95%E4%B8%9A%E7%A0%94%E7%A9%B6%E7%94%9F/"/>
-    <id>http://hexo-demo.test.cn/2023/03/02/%E6%AF%95%E4%B8%9A%E7%A0%94%E7%A9%B6%E7%94%9F/</id>
-    <published>2023-03-02T02:14:23.000Z</published>
-    <updated>2023-03-03T07:36:57.353Z</updated>
-    
-    <content type="html"><![CDATA[<p>毕业研究生 博士a，硕士a</p>]]></content>
-    
-    
-      
-      
-    <summary type="html">&lt;p&gt;毕业研究生 博士a，硕士a&lt;/p&gt;
-</summary>
-      
-    
-    
-    
-    <category term="研究生" scheme="http://hexo-demo.test.cn/categories/%E7%A0%94%E7%A9%B6%E7%94%9F/"/>
-    
-    
-    <category term="毕业研究生" scheme="http://hexo-demo.test.cn/tags/%E6%AF%95%E4%B8%9A%E7%A0%94%E7%A9%B6%E7%94%9F/"/>
     
   </entry>
   
