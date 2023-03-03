@@ -1,24 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
-    <title>专利</title>
-    <url>/2023/03/02/%E4%B8%93%E5%88%A9/</url>
-    <content><![CDATA[<p>所获专利列表 专利1，专利2，专利3</p>
-]]></content>
-      <categories>
-        <category>专利</category>
-      </categories>
-  </entry>
-  <entry>
-    <title>毕业研究生</title>
-    <url>/2023/03/02/%E6%AF%95%E4%B8%9A%E7%A0%94%E7%A9%B6%E7%94%9F/</url>
-    <content><![CDATA[<p>毕业研究生 博士a，硕士a</p>
+    <title>在读研究生</title>
+    <url>/2023/03/02/%E5%9C%A8%E8%AF%BB%E7%A0%94%E7%A9%B6%E7%94%9F/</url>
+    <content><![CDATA[<p>在读研究生 博士a，硕士a</p>
 ]]></content>
       <categories>
         <category>研究生</category>
       </categories>
       <tags>
-        <tag>毕业研究生</tag>
+        <tag>在读研究生</tag>
       </tags>
   </entry>
   <entry>
@@ -34,15 +25,15 @@
       </tags>
   </entry>
   <entry>
-    <title>在读研究生</title>
-    <url>/2023/03/02/%E5%9C%A8%E8%AF%BB%E7%A0%94%E7%A9%B6%E7%94%9F/</url>
-    <content><![CDATA[<p>在读研究生 博士a，硕士a</p>
+    <title>更新</title>
+    <url>/2023/03/02/%E6%9B%B4%E6%96%B0/</url>
+    <content><![CDATA[<p>这是一个博客更新测试</p>
 ]]></content>
       <categories>
-        <category>研究生</category>
+        <category>测试</category>
       </categories>
       <tags>
-        <tag>在读研究生</tag>
+        <tag>更新测试</tag>
       </tags>
   </entry>
   <entry>
@@ -58,15 +49,15 @@
       </tags>
   </entry>
   <entry>
-    <title>更新</title>
-    <url>/2023/03/02/%E6%9B%B4%E6%96%B0/</url>
-    <content><![CDATA[<p>这是一个博客更新测试</p>
+    <title>毕业研究生</title>
+    <url>/2023/03/02/%E6%AF%95%E4%B8%9A%E7%A0%94%E7%A9%B6%E7%94%9F/</url>
+    <content><![CDATA[<p>毕业研究生 博士a，硕士a</p>
 ]]></content>
       <categories>
-        <category>测试</category>
+        <category>研究生</category>
       </categories>
       <tags>
-        <tag>更新测试</tag>
+        <tag>毕业研究生</tag>
       </tags>
   </entry>
   <entry>
@@ -80,5 +71,14 @@
       <tags>
         <tag>发表论文</tag>
       </tags>
+  </entry>
+  <entry>
+    <title>专利</title>
+    <url>/2023/03/02/%E4%B8%93%E5%88%A9/</url>
+    <content><![CDATA[<p>所获专利列表 专利1，专利2，专利3</p>
+]]></content>
+      <categories>
+        <category>专利</category>
+      </categories>
   </entry>
 </search>
