@@ -90,6 +90,31 @@
   </entry>
   
   <entry>
+    <title>更新</title>
+    <link href="http://hexo-demo.test.cn/2023/03/02/%E6%9B%B4%E6%96%B0/"/>
+    <id>http://hexo-demo.test.cn/2023/03/02/%E6%9B%B4%E6%96%B0/</id>
+    <published>2023-03-02T02:14:23.000Z</published>
+    <updated>2023-03-03T10:05:44.443Z</updated>
+    
+    <content type="html"><![CDATA[<p>这是一个博客更新测试</p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;这是一个博客更新测试&lt;/p&gt;
+</summary>
+      
+    
+    
+    
+    <category term="测试" scheme="http://hexo-demo.test.cn/categories/%E6%B5%8B%E8%AF%95/"/>
+    
+    
+    <category term="更新测试" scheme="http://hexo-demo.test.cn/tags/%E6%9B%B4%E6%96%B0%E6%B5%8B%E8%AF%95/"/>
+    
+  </entry>
+  
+  <entry>
     <title>在读研究生</title>
     <link href="http://hexo-demo.test.cn/2023/03/02/%E5%9C%A8%E8%AF%BB%E7%A0%94%E7%A9%B6%E7%94%9F/"/>
     <id>http://hexo-demo.test.cn/2023/03/02/%E5%9C%A8%E8%AF%BB%E7%A0%94%E7%A9%B6%E7%94%9F/</id>
