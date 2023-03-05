@@ -10,15 +10,15 @@
       </categories>
   </entry>
   <entry>
-    <title>团队获奖</title>
-    <url>/2023/03/02/%E5%9B%A2%E9%98%9F%E8%8E%B7%E5%A5%96/</url>
-    <content><![CDATA[<p>团队获得奖项列表 奖项1 获得时间，奖项2 获得时间，奖项3 获得时间</p>
+    <title>在读研究生</title>
+    <url>/2023/03/02/%E5%9C%A8%E8%AF%BB%E7%A0%94%E7%A9%B6%E7%94%9F/</url>
+    <content><![CDATA[<p>在读研究生 博士a，硕士a</p>
 ]]></content>
       <categories>
-        <category>获奖</category>
+        <category>研究生</category>
       </categories>
       <tags>
-        <tag>团队获奖</tag>
+        <tag>在读研究生</tag>
       </tags>
   </entry>
   <entry>
@@ -34,15 +34,15 @@
       </tags>
   </entry>
   <entry>
-    <title>在读研究生</title>
-    <url>/2023/03/02/%E5%9C%A8%E8%AF%BB%E7%A0%94%E7%A9%B6%E7%94%9F/</url>
-    <content><![CDATA[<p>在读研究生 博士a，硕士a</p>
+    <title>团队获奖</title>
+    <url>/2023/03/02/%E5%9B%A2%E9%98%9F%E8%8E%B7%E5%A5%96/</url>
+    <content><![CDATA[<p>团队获得奖项列表 奖项1 获得时间，奖项2 获得时间，奖项3 获得时间</p>
 ]]></content>
       <categories>
-        <category>研究生</category>
+        <category>获奖</category>
       </categories>
       <tags>
-        <tag>在读研究生</tag>
+        <tag>团队获奖</tag>
       </tags>
   </entry>
   <entry>
@@ -82,18 +82,6 @@
       </tags>
   </entry>
   <entry>
-    <title>论文</title>
-    <url>/2023/03/02/%E8%AE%BA%E6%96%87/</url>
-    <content><![CDATA[<p>发表的论文 论文1，论文2，论文3</p>
-]]></content>
-      <categories>
-        <category>论文</category>
-      </categories>
-      <tags>
-        <tag>发表论文</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>软件著作</title>
     <url>/2023/03/02/%E8%BD%AF%E8%91%97/</url>
     <content><![CDATA[<p>软件著作列表 软著1，软著2，软著3</p>
@@ -103,6 +91,18 @@
       </categories>
       <tags>
         <tag>软件著作</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>论文</title>
+    <url>/2023/03/02/%E8%AE%BA%E6%96%87/</url>
+    <content><![CDATA[<p>发表的论文 论文1，论文2，论文3</p>
+]]></content>
+      <categories>
+        <category>论文</category>
+      </categories>
+      <tags>
+        <tag>发表论文</tag>
       </tags>
   </entry>
 </search>
