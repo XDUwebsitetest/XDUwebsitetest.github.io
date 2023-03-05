@@ -10,30 +10,6 @@
       </categories>
   </entry>
   <entry>
-    <title>在读研究生</title>
-    <url>/2023/03/02/%E5%9C%A8%E8%AF%BB%E7%A0%94%E7%A9%B6%E7%94%9F/</url>
-    <content><![CDATA[<p>在读研究生 博士a，硕士a</p>
-]]></content>
-      <categories>
-        <category>研究生</category>
-      </categories>
-      <tags>
-        <tag>在读研究生</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>学生获奖情况</title>
-    <url>/2023/03/02/%E5%AD%A6%E7%94%9F%E8%8E%B7%E5%A5%96%E6%83%85%E5%86%B5/</url>
-    <content><![CDATA[<p>学生获奖情况 2021-2022年度奖项1，2021-2022年度奖项2,2021-2022年度奖项3</p>
-]]></content>
-      <categories>
-        <category>奖项</category>
-      </categories>
-      <tags>
-        <tag>学生获奖</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>团队获奖</title>
     <url>/2023/03/02/%E5%9B%A2%E9%98%9F%E8%8E%B7%E5%A5%96/</url>
     <content><![CDATA[<p>团队获得奖项列表 奖项1 获得时间，奖项2 获得时间，奖项3 获得时间</p>
@@ -43,6 +19,18 @@
       </categories>
       <tags>
         <tag>团队获奖</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>在读研究生</title>
+    <url>/2023/03/02/%E5%9C%A8%E8%AF%BB%E7%A0%94%E7%A9%B6%E7%94%9F/</url>
+    <content><![CDATA[<p>在读研究生 博士a，硕士a</p>
+]]></content>
+      <categories>
+        <category>研究生</category>
+      </categories>
+      <tags>
+        <tag>在读研究生</tag>
       </tags>
   </entry>
   <entry>
@@ -58,15 +46,15 @@
       </tags>
   </entry>
   <entry>
-    <title>更新</title>
-    <url>/2023/03/02/%E6%9B%B4%E6%96%B0/</url>
-    <content><![CDATA[<p>这是一个博客更新测试</p>
+    <title>学生获奖情况</title>
+    <url>/2023/03/02/%E5%AD%A6%E7%94%9F%E8%8E%B7%E5%A5%96%E6%83%85%E5%86%B5/</url>
+    <content><![CDATA[<p>学生获奖情况 2021-2022年度奖项1，2021-2022年度奖项2,2021-2022年度奖项3</p>
 ]]></content>
       <categories>
-        <category>测试</category>
+        <category>奖项</category>
       </categories>
       <tags>
-        <tag>更新测试</tag>
+        <tag>学生获奖</tag>
       </tags>
   </entry>
   <entry>
@@ -91,6 +79,18 @@
       </categories>
       <tags>
         <tag>软件著作</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>更新</title>
+    <url>/2023/03/02/%E6%9B%B4%E6%96%B0/</url>
+    <content><![CDATA[<p>这是一个博客更新测试</p>
+]]></content>
+      <categories>
+        <category>测试</category>
+      </categories>
+      <tags>
+        <tag>更新测试</tag>
       </tags>
   </entry>
   <entry>
