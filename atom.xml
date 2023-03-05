@@ -42,6 +42,54 @@
   </entry>
   
   <entry>
+    <title>专利</title>
+    <link href="http://hexo-demo.test.cn/2023/03/02/%E4%B8%93%E5%88%A9/"/>
+    <id>http://hexo-demo.test.cn/2023/03/02/%E4%B8%93%E5%88%A9/</id>
+    <published>2023-03-02T02:14:23.000Z</published>
+    <updated>2023-03-03T07:30:19.194Z</updated>
+    
+    <content type="html"><![CDATA[<p>所获专利列表 专利1，专利2，专利3</p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;所获专利列表 专利1，专利2，专利3&lt;/p&gt;
+</summary>
+      
+    
+    
+    
+    <category term="专利" scheme="http://hexo-demo.test.cn/categories/%E4%B8%93%E5%88%A9/"/>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>团队获奖</title>
+    <link href="http://hexo-demo.test.cn/2023/03/02/%E5%9B%A2%E9%98%9F%E8%8E%B7%E5%A5%96/"/>
+    <id>http://hexo-demo.test.cn/2023/03/02/%E5%9B%A2%E9%98%9F%E8%8E%B7%E5%A5%96/</id>
+    <published>2023-03-02T02:14:23.000Z</published>
+    <updated>2023-03-05T10:24:02.240Z</updated>
+    
+    <content type="html"><![CDATA[<p>团队获得奖项列表 奖项1 获得时间，奖项2 获得时间，奖项3 获得时间</p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;团队获得奖项列表 奖项1 获得时间，奖项2 获得时间，奖项3 获得时间&lt;/p&gt;
+</summary>
+      
+    
+    
+    
+    <category term="获奖" scheme="http://hexo-demo.test.cn/categories/%E8%8E%B7%E5%A5%96/"/>
+    
+    
+    <category term="团队获奖" scheme="http://hexo-demo.test.cn/tags/%E5%9B%A2%E9%98%9F%E8%8E%B7%E5%A5%96/"/>
+    
+  </entry>
+  
+  <entry>
     <title>在读研究生</title>
     <link href="http://hexo-demo.test.cn/2023/03/02/%E5%9C%A8%E8%AF%BB%E7%A0%94%E7%A9%B6%E7%94%9F/"/>
     <id>http://hexo-demo.test.cn/2023/03/02/%E5%9C%A8%E8%AF%BB%E7%A0%94%E7%A9%B6%E7%94%9F/</id>
@@ -67,31 +115,6 @@
   </entry>
   
   <entry>
-    <title>更新</title>
-    <link href="http://hexo-demo.test.cn/2023/03/02/%E6%9B%B4%E6%96%B0/"/>
-    <id>http://hexo-demo.test.cn/2023/03/02/%E6%9B%B4%E6%96%B0/</id>
-    <published>2023-03-02T02:14:23.000Z</published>
-    <updated>2023-03-03T10:05:44.443Z</updated>
-    
-    <content type="html"><![CDATA[<p>这是一个博客更新测试</p>]]></content>
-    
-    
-      
-      
-    <summary type="html">&lt;p&gt;这是一个博客更新测试&lt;/p&gt;
-</summary>
-      
-    
-    
-    
-    <category term="测试" scheme="http://hexo-demo.test.cn/categories/%E6%B5%8B%E8%AF%95/"/>
-    
-    
-    <category term="更新测试" scheme="http://hexo-demo.test.cn/tags/%E6%9B%B4%E6%96%B0%E6%B5%8B%E8%AF%95/"/>
-    
-  </entry>
-  
-  <entry>
     <title>导师</title>
     <link href="http://hexo-demo.test.cn/2023/03/02/%E5%AF%BC%E5%B8%88/"/>
     <id>http://hexo-demo.test.cn/2023/03/02/%E5%AF%BC%E5%B8%88/</id>
@@ -113,6 +136,31 @@
     
     
     <category term="导师介绍" scheme="http://hexo-demo.test.cn/tags/%E5%AF%BC%E5%B8%88%E4%BB%8B%E7%BB%8D/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>更新</title>
+    <link href="http://hexo-demo.test.cn/2023/03/02/%E6%9B%B4%E6%96%B0/"/>
+    <id>http://hexo-demo.test.cn/2023/03/02/%E6%9B%B4%E6%96%B0/</id>
+    <published>2023-03-02T02:14:23.000Z</published>
+    <updated>2023-03-03T10:05:44.443Z</updated>
+    
+    <content type="html"><![CDATA[<p>这是一个博客更新测试</p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;这是一个博客更新测试&lt;/p&gt;
+</summary>
+      
+    
+    
+    
+    <category term="测试" scheme="http://hexo-demo.test.cn/categories/%E6%B5%8B%E8%AF%95/"/>
+    
+    
+    <category term="更新测试" scheme="http://hexo-demo.test.cn/tags/%E6%9B%B4%E6%96%B0%E6%B5%8B%E8%AF%95/"/>
     
   </entry>
   
@@ -167,25 +215,27 @@
   </entry>
   
   <entry>
-    <title>专利</title>
-    <link href="http://hexo-demo.test.cn/2023/03/02/%E4%B8%93%E5%88%A9/"/>
-    <id>http://hexo-demo.test.cn/2023/03/02/%E4%B8%93%E5%88%A9/</id>
+    <title>软件著作</title>
+    <link href="http://hexo-demo.test.cn/2023/03/02/%E8%BD%AF%E8%91%97/"/>
+    <id>http://hexo-demo.test.cn/2023/03/02/%E8%BD%AF%E8%91%97/</id>
     <published>2023-03-02T02:14:23.000Z</published>
-    <updated>2023-03-03T07:30:19.194Z</updated>
+    <updated>2023-03-05T10:23:27.081Z</updated>
     
-    <content type="html"><![CDATA[<p>所获专利列表 专利1，专利2，专利3</p>]]></content>
+    <content type="html"><![CDATA[<p>软件著作列表 软著1，软著2，软著3</p>]]></content>
     
     
       
       
-    <summary type="html">&lt;p&gt;所获专利列表 专利1，专利2，专利3&lt;/p&gt;
+    <summary type="html">&lt;p&gt;软件著作列表 软著1，软著2，软著3&lt;/p&gt;
 </summary>
       
     
     
     
-    <category term="专利" scheme="http://hexo-demo.test.cn/categories/%E4%B8%93%E5%88%A9/"/>
+    <category term="软件著作" scheme="http://hexo-demo.test.cn/categories/%E8%BD%AF%E4%BB%B6%E8%91%97%E4%BD%9C/"/>
     
+    
+    <category term="软件著作" scheme="http://hexo-demo.test.cn/tags/%E8%BD%AF%E4%BB%B6%E8%91%97%E4%BD%9C/"/>
     
   </entry>
   
